@@ -5,3 +5,7 @@
 - Mateo Toro Molina, CC: 1152225394, Ingeniería Mecánica
 
 - Competición de Kaggle: https://www.kaggle.com/competitions/DontGetKicked/overview
+
+- ## Video
+
+- Video segunda entrega: https://www.youtube.com/watch?v=JRk7keQAJGo
