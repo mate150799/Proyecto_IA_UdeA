@@ -9,3 +9,4 @@
 - ## Video
 
 - Video segunda entrega: https://www.youtube.com/watch?v=JRk7keQAJGo
+- Video entrega final: https://www.youtube.com/watch?v=kss7M85eG5c
